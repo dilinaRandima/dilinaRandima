@@ -28,15 +28,15 @@ Hey there! I'm Dilina, a passionate Full Stack Developer specializing in the MER
 
 - 🔭 I’m currently working on **enhancing my web development portfolio by developing real-world applications with clean design, responsiveness, and interactivity.**
 
-- 🌱 I’m currently learning **JavaScript, React, and backend development with Node.js, Express, and databases (MongoDB/MySQL) by building hands-on projects and exploring best practices.**
+- 🌱 I’m currently learning **JavaScript, React, and backend development with Node.js, Express, and databases (MongoDB) by building hands-on projects and exploring best practices.**
 
 - 👯 I’m looking to collaborate on **open-source frontend projects where I can contribute my design and development skills while learning from other developers.**
 
-- 💬 Ask me about **full-stack web development, especially using React, Node.js, Express, MongoDB, and MySQL. I also enjoy working with JavaScript, Python, Java, C++, and writing clean, responsive frontends with HTML/CSS.**
+- 💬 Ask me about **full-stack web development, especially using React, Node.js, Express, and MongoDB. I also enjoy working with JavaScript, Python, Java, C++, and writing clean, responsive frontends with HTML/CSS**
 
 - 📧 How to reach me **dilinarandima333@gmail.com**
 
-- ⚡ Fun fact **My favorite programming language? Whichever one isn’t throwing errors today.**
+- ⚡ Fun fact **My favourite programming language? Whichever one isn’t throwing errors today.**
 
 ---
 
@@ -66,13 +66,11 @@ Hey there! I'm Dilina, a passionate Full Stack Developer specializing in the MER
 ### 🗄️ Databases & Design
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### 🔧 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
